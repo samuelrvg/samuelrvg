@@ -8,11 +8,11 @@ Depois fiz um teste para trabalhar no Tribunal de Justiça de MT. Passei e fiz p
 
 Atualmente, fui convidado por um amigo para trabalhar em uma indústria de Etanol no interior do estado de Mato Grosso, nessa empresa usamos as seguintes tecnologias: AspNet Core 3.1 no back-end, Angular 8 no front-end e React Native para aplicação mobile.
 
-Nas horas vagas estudo:
+#### Nas horas vagas estudo:
 
-Python
-Inglês
-Coding Craft
+ - Python
+ - Inglês
+ - Coding Craft
 
 <!--
 **samuelrvg/samuelrvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
