@@ -12,6 +12,8 @@ Atualmente, fui convidado por um amigo para trabalhar em uma indústria de Etano
 
 Também estou atuando como freelance para uma empresa de Portugal chamada [Swood](https://useswood.com/), nessa empresa utilizamos Python3, Flask, SqlAlchemy no back-end e VueJs no front-end.
 
+Sempre que posso, procuro contribuir com a comunidade no pt.StackOverflow esse é meu [usuário](https://pt.stackoverflow.com/users/41472/samuel-renan-gon%c3%a7alves-vaz) na rede.
+
 #### Nas horas vagas estudo:
 
  - Python
