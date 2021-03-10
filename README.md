@@ -11,7 +11,7 @@ Atualmente, estou atuando como freelance para uma empresa de Portugal chamada [S
 * Sempre que posso, procuro contribuir com a comunidade no pt.StackOverflow esse é meu [usuário](https://pt.stackoverflow.com/users/41472/samuel-renan-gon%c3%a7alves-vaz) na rede.
 * Um dos packages que publiquei no [Nugget](https://www.nuget.org/packages/DapperExtensions.Oracle/)
 * [Linkeding](https://www.linkedin.com/in/samuel-renan-gon%C3%A7alves-vaz-b6b83a103/) para contatos
-* Um dos artigos que publiquei no Linkeding sobre [AspNet Core 3.1 e Oracle](https://www.linkedin.com/pulse/aspnet-core-31-e-oracle-samuel-renan-g-vaz/)
+* Primeiro artigo publicado no Linkeding sobre [AspNet Core 3.1 e Oracle](https://www.linkedin.com/pulse/aspnet-core-31-e-oracle-samuel-renan-g-vaz/)
 
 #### Nas horas vagas estudo:
 
