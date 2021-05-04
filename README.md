@@ -1,7 +1,5 @@
 ### Olá 👋
 
-#### Resumo da minha trajetória.
-
 Desenvolvedor C# desde 2015 com experiência em outas tecnologias como React, React Native, Angular, JavaScript, Python e VueJs.
 
 * Sempre que posso, procuro contribuir com a comunidade no pt.StackOverflow esse é meu [usuário](https://pt.stackoverflow.com/users/41472/samuel-renan-gon%c3%a7alves-vaz) na rede.
