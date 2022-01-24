@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Desenvolvedor C# desde 2015 com experiência em React, React Native, Angular, JavaScript, Python, VueJs entre outras.
+Desenvolvedor C# desde 2015 com experiências em React, React Native, Angular, JavaScript, Python, VueJs entre outras.
 
 * Primeiro package publicado no [Nugget](https://www.nuget.org/packages/DapperExtensions.Oracle/).
 * Primeira extensão criada e publicada do [VSCode](https://marketplace.visualstudio.com/items?itemName=LinguagemDelegua.delegua-vscode) do projeto [Delégua](https://github.com/DesignLiquido/delegua-vscode).
