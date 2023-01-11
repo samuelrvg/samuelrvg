@@ -3,7 +3,7 @@
 Desenvolvedor C# desde 2015 com experiências em React, React Native, Angular, JavaScript, Python, VueJs entre outras.
 
 * Primeiro package publicado no [Nugget](https://www.nuget.org/packages/DapperExtensions.Oracle/).
-* Primeiro package publicado no [NPM]([https://www.nuget.org/packages/DapperExtensions.Oracle/](https://www.npmjs.com/package/ngx-treeview-br)).
+* Primeiro package publicado no [NPM](https://www.npmjs.com/package/ngx-treeview-br)).
 * Primeira extensão criada e publicada do [VSCode](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) do projeto [Delégua](https://github.com/DesignLiquido/delegua-vscode).
 * [Linkeding](https://www.linkedin.com/in/samuel-renan-goncalves-vaz/)
 
