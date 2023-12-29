@@ -5,11 +5,6 @@ Desenvolvedor C# desde 2015 com experiências em React, React Native, Angular, J
 * Pacotes publicados no [NPM](https://www.npmjs.com/settings/samuelrvg/packages).
 * Primeiro package publicado no [Nugget](https://www.nuget.org/packages/DapperExtensions.Oracle/).
 * Primeira extensão criada e publicada do [VSCode](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) do projeto [Delégua](https://github.com/DesignLiquido/delegua-vscode).
-* [LinkedIn](https://www.linkedin.com/in/samuel-renan-goncalves-vaz/)
-
-##### Nas horas vagas estudo:
-
- - Inglês
  
  <div align="center">
   <a href="https://github.com/samuelrvg">
