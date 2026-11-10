@@ -1,5 +1,3 @@
-### 👋
-
 I have a degree in Systems Analysis and Development and have been working as a developer since 2015, starting with internships and deepening my studies in programming. My primary expertise is in C#, and over time, I expanded my skills to React and JavaScript for front-end development.
 
 Some of the projects I've worked on and published include:
