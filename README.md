@@ -1,8 +1,11 @@
-### Olá 👋
+### 👋
 
 I have a degree in Systems Analysis and Development and have been working as a developer since 2015, starting with internships and deepening my studies in programming. My primary expertise is in C#, and over time, I expanded my skills to React and JavaScript for front-end development.
 
 Some of the projects I've worked on and published include:
+
+— ReaderTS – An EPUB-first reading framework in TypeScript (EPUB 2/3 + PDF,   annotations, paged & scroll layouts), with a mobile SDK sharing the same rendering kernel. Currently in release candidate (1.0.0-rc). 
+Live demo: [readerts](https://readerts.com.br)
 
 — Delégua – A Portuguese-based programming language (GitHub)
 — VSCode Extension – An extension for VSCode (GitHub)
